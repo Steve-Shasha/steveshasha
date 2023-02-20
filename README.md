@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Asamoah Steven</h1>
 <h3 align="center">A passionate frontend developer from Ghana</h3>
-<img align=“right” alt=“Coding” width=“400” src=“https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT42iQylZnlfcxMtcTk71_x8lt-BJK_pSPvJRHsqDoRyg&s”>
+<img align=“right” alt=“Coding” width=“400” src=“https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2gyWTWt-XpvlmKNdDpcky4&ust=1676946760958000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNCT39GHo_0CFQAAAAAdAAAAABAE”>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=steve-shasha" alt="steve-shasha" /></a> </p>
 
